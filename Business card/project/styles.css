@@ -1,0 +1,25 @@
+body {
+    margin: 20px;
+    font-family: OCR A Std, monospace;
+}
+
+.avatar {
+    width: 150px;
+}
+
+.card {
+    width: 450px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #f2ebfb;
+    color: #343f3e;
+    border-radius: 2%;
+    box-shadow: 10px 10px 5px grey;
+}
+
+p:hover {
+    text-shadow: 2px 2px 5px;
+}
